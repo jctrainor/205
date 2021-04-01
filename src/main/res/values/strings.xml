@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="convert">
+        <item>Celcius</item>
+        <item>Meters</item>
+        <item>KG</item>
+    </string-array>
+</resources>
